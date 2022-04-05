@@ -8,5 +8,5 @@ Cuando iniciamos la App en un ComboBox se muestran las tablas de la base de dato
 y si pinchamos sobre alguna de ellas en la tabla que hay debajo se muestran los datos de
 la misma.
 
-La conexión es para MySql con el puerto 3306. Proximamente lo modificaré para que hacepte distintas
+La conexión es para MySql con el puerto 3306. Próximamente lo modificaré para que acepte distintas
 bases de datos con sus distintas conexiones y que las podamos elegir dinámicamente.
