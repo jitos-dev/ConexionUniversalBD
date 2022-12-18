@@ -3,6 +3,9 @@
 
 # Log file
 *.log
+.idea
+ConexionUniversalBD.iml
+/target
 
 # BlueJ files
 *.ctxt
